@@ -1,0 +1,4 @@
+Cannot generate into /home/eloymtm/Desktop/Copia/AED_projeto2/cmake-build-debug
+It is already used for project /home/adriana/ProjetoAED2.0
+
+Please either delete it manually or select another generation directory
